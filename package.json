@@ -1,0 +1,24 @@
+{
+  "name": "mocha-demos-vv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "testing",
+    "Mocha",
+    "VV"
+  ],
+  "author": "Eli Herrington",
+  "devDependencies": {
+    "chai": "~3.4.1",
+    "mocha": "3.0.2"
+  },
+  "dependencies": {
+    "karma": "^4.0.1",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-mocha": "^1.3.0"
+  }
+}
